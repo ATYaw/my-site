@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+time {
+    color: gray;
+    font-size: 0.9rem;
+}
